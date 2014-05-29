@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'LeagueGothic-Regular';
+  src: url('LeagueGothic-Regular.eot');
+  src: url('LeagueGothic-Regular.eot?#iefix') format('embedded-opentype'),
+       url('LeagueGothic-Regular.woff') format('woff'),
+       url('LeagueGothic-Regular.ttf') format('truetype'),
+       url('LeagueGothic-Regular.svg#LeagueGothic-Regular') format('svg');
+}
