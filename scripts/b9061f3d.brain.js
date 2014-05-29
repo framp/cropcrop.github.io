@@ -1,0 +1,1 @@
+$("#zebrafish")&&(videojs.autoSetup(),videojs("zebrafish").ready(function(){function a(){var a=document.getElementById(c).parentElement.offsetWidth;b.width(a).height(a*d)}var b=this,c=b.id(),d=480/360;a(),window.onresize=a})),$(function(){$.stellar({responsive:!0,horizontalScrolling:!1,verticalScrolling:!0})});
